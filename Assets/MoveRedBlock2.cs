@@ -6,6 +6,7 @@ public class MoveRedBlock2 : MonoBehaviour
     void Start()
     {
         //move red block 
+        //added some new stuff 
     }
 
     // Update is called once per frame
